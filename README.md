@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Daniel13
 - 👀 I’m interested in pocktmine-mp
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning php
+- 💞️ I’m looking to collaborate on sever
 - 📫 How to reach me discord
 
 <!---
